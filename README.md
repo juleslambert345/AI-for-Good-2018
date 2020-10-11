@@ -1,5 +1,5 @@
 # AI-for-Good-2018
-Project done during the AI for good 2018 hackathon
+Project done during the AI for good 2018 hackathon(done with python, pandas, scikit-learn)
 
 The goal was to be able to predict treatements use from the symptoms people have for some chronic diseases. 
 
